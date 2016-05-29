@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OpenFace</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="login_vk">Login VK</string>
+    <string name="pick_image_intent_text">Select photo</string>
+    <string name="you_search">You search</string>
+    <string name="photos">Photos</string>
+    <string name="search">Search</string>
+    <string name="history">History</string>
+    <string name="face_no_detected">Dace no detected</string>
+    <string name="many_person">The photo was found by many persons, select one person to find</string>
+    <string name="free_searches">Free searches</string>
+    <string name="starter_text">OpenFace - is a free alternative to the customer service findeface.ru</string>
+</resources>

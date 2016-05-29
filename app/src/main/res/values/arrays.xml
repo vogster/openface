@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vk_scope">
+        <item>friends</item>
+        <item>messages</item>
+        <item>email</item>
+        <item>photos</item>
+        <item>wall</item>
+        <item>notify</item>
+        <item>notification</item>
+        <item>offline</item>
+    </string-array>
+</resources>

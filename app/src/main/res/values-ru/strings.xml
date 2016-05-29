@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OpenFace</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="login_vk">Войти ВКонтакте</string>
+    <string name="pick_image_intent_text">Выберите фотографию</string>
+    <string name="you_search">Вы искали</string>
+    <string name="photos">Фотографии</string>
+    <string name="search">Поиск</string>
+    <string name="history">История</string>
+    <string name="face_no_detected">На загруженной фотографии не найдено ни одного человека</string>
+    <string name="many_person">На фотографии обнаружено несколько лиц , выберите одно человека для поиска</string>
+    <string name="free_searches">Осатлось бесплатных поисков</string>
+    <string name="starter_text">OpenFace - является бесплатным альтернативным клиентом для сервиса findface.ru</string>
+</resources>
